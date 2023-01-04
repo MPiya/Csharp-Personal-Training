@@ -1,0 +1,15 @@
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\bin\Debug\net6.0\Polymorphim using Animal class.exe
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\bin\Debug\net6.0\Polymorphim using Animal class.deps.json
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\bin\Debug\net6.0\Polymorphim using Animal class.runtimeconfig.json
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\bin\Debug\net6.0\Polymorphim using Animal class.dll
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\bin\Debug\net6.0\Polymorphim using Animal class.pdb
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\obj\Debug\net6.0\Polymorphim using Animal class.csproj.AssemblyReference.cache
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\obj\Debug\net6.0\Polymorphim using Animal class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\obj\Debug\net6.0\Polymorphim using Animal class.AssemblyInfoInputs.cache
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\obj\Debug\net6.0\Polymorphim using Animal class.AssemblyInfo.cs
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\obj\Debug\net6.0\Polymorphim using Animal class.csproj.CoreCompileInputs.cache
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\obj\Debug\net6.0\Polymorphim using Animal class.dll
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\obj\Debug\net6.0\refint\Polymorphim using Animal class.dll
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\obj\Debug\net6.0\Polymorphim using Animal class.pdb
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\obj\Debug\net6.0\Polymorphim using Animal class.genruntimeconfig.cache
+C:\Users\Bon\source\repos\Polymorphim using Animal class\Polymorphim using Animal class\obj\Debug\net6.0\ref\Polymorphim using Animal class.dll
